@@ -1,0 +1,1 @@
+To start local server use "node start.js"
